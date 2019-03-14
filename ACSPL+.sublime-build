@@ -1,0 +1,7 @@
+{
+    selector: "source.acspl+",
+    file_patterns: ["*.prg"],
+    windows: {
+        "cmd": ["my_command.exe", "/D", "$file"]
+    }
+}
