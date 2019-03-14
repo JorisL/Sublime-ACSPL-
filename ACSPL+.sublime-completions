@@ -1,0 +1,10 @@
+
+{
+	"scope": "source.acspl+",
+	"completions": [
+		"PTP",
+        "JOG",
+        "ACC",
+        "VEL"
+	]
+}
