@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+ON ${1:condition}
+    ${0}
+RET
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>on</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.acspl+</scope>
+    <description>ON ... RET</description>>
+</snippet>

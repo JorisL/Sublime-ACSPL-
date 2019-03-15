@@ -1,0 +1,6 @@
+{
+    //"shell_cmd": "powershell.exe -File \"$packages\\User\\Sublime-ACSPL+\\scripts\\ACS_Upload_PRG.ps1\"",
+    "shell_cmd": "powershell.exe -File \"$packages\\User\\Sublime-ACSPL+\\scripts\\ACS_Load_PRG.ps1\" \"$file\" -ip 10.0.0.100",
+    //"cmd": ["$packages\\User", "$file"],
+    "selector": "source.acspl+",
+}
